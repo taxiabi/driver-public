@@ -43395,7 +43395,7 @@ m=t.f
 l=B.cX
 k=B.V
 s=3
-return A.E(A.aTJ(A.f1("https://abi.taxiabi.ir/api/v1/auth/presignin"),A.au(["mobile",a],p,p),null),$async$AM)
+return A.E(A.aTJ(A.f1("https://api.taxiabi.ir/api/v1/auth/presignin"),A.au(["mobile",a],p,p),null),$async$AM)
 case 3:q=new o.OC(n.avh(m.a(l.UV(k.hC(c.w),null)),p,t.z).h(0,"value"))
 s=1
 break
